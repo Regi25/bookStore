@@ -70,7 +70,7 @@ const BookDetails = ({isOpen, closeModal, book, imageUrl} :BookDetailsProps) => 
             </Dialog.Panel>
             </Transition.Child>
           </div>
-        </div>
+         </div>
           
          </Dialog>
         </Transition>

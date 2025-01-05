@@ -1,6 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Bookstore
+
+This is a Bookstore project built with Next.js, a React-based framework for building modern web applications.
+
+## Features
+
+Browse and search for books.
+View detailed information about each book.
+Optimized performance with Next.js features.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
